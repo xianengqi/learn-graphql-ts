@@ -30,7 +30,7 @@
     "graphql-tools": "^6.0.15",
     "graphql-yoga": "^1.18.3",
     "jest": "^26.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "pg": "^8.3.0",
     "reflect-metadata": "^0.1.13",
     "ts-jest": "^26.1.3",
