@@ -24,7 +24,7 @@
     "@types/jest": "^26.0.7",
     "apollo-server-express": "^2.16.0",
     "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-graphql": "^0.11.0",
     "graphql-request": "^2.0.0",
     "graphql-tools": "^6.0.15",
